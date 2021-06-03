@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "E/+GcuZ4cjBlHfh9oJRydiZIcN53N9lMuzQKmmh+w9iFl0RNUszwFVk74udAaIdU9rWqqicPJ9jGXi06DdIhbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jesse\\OneDrive\\Desktop\\Epicodus\\12 week-twelve\\ConsoleApiCall\\ConsoleApiCall.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jesse\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\jesse\\.nuget\\packages\\restsharp\\106.6.10\\restsharp.106.6.10.nupkg.sha512"
+  ],
+  "logs": []
+}
